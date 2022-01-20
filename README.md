@@ -3,7 +3,7 @@ Here, at the beginning of your programmer’s path, creating a simple console ch
 
 You’ll get to know the basic syntax of Go and write a simple program using variables, conditions, loops, and functions.
 
-Link to the project [Classification of Handwritten Digits](https://hyperskill.org/projects/206).
+Link to the project [Simple Chatty Bot](https://hyperskill.org/projects/206).
 
 Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects)
 
