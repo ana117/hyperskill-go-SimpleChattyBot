@@ -8,6 +8,7 @@ Link to the project [Simple Chatty Bot](https://hyperskill.org/projects/206).
 Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects)
 
 ## Demo
+![go-SimpleChattyBot](https://user-images.githubusercontent.com/63540951/150744046-34d7463b-3a8a-4781-82c8-a74e34f62e48.gif)
 
 ## Stages
 **Stage 1/5: Chatty Bot welcomes you**\
